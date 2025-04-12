@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909116634172",
+    "project_id": "wp-clone-6e4e1",
+    "storage_bucket": "wp-clone-6e4e1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909116634172:android:147b32ab47255c61863f39",
+        "android_client_info": {
+          "package_name": "com.example.job_search_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrp2L7ca3mRv4nRNJhdQKT55ejwatE24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

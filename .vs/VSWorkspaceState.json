@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lib",
+    "\\lib\\employer",
+    "\\lib\\employer\\services"
+  ],
+  "SelectedNode": "\\lib\\employer\\services\\chat_service.dart",
+  "PreviewInSolutionExplorer": false
+}

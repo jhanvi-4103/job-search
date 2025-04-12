@@ -1,0 +1,94 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp",
+      "location": "Ahmedabad, Gujarat",
+      "salary": "$120,000",
+      "description": "We are looking for a skilled Software Engineer to join our team and develop scalable applications.",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in software development",
+        "Proficiency in Python, Java, or JavaScript",
+        "Experience with cloud services (AWS, Azure, GCP)"
+      ],
+      "apply_link": "https://techcorp.com/careers/software-engineer"
+    },
+    {
+      "id": 2,
+      "title": "Product Manager",
+      "company": "Innovate Inc.",
+      "location": "Surat, Gujarat",
+      "salary": "$140,000",
+      "description": "Seeking a strategic Product Manager to drive product vision, strategy, and execution.",
+      "requirements": [
+        "Bachelor’s or Master’s degree in Business or related field",
+        "5+ years of experience in product management",
+        "Strong analytical and problem-solving skills",
+        "Experience working with Agile methodologies"
+      ],
+      "apply_link": "https://innovateinc.com/jobs/product-manager"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Designer",
+      "company": "DesignStudio",
+      "location": "Remote",
+      "salary": "$90,000",
+      "description": "We are looking for a creative UI/UX Designer to design intuitive and user-friendly interfaces.",
+      "requirements": [
+        "2+ years of experience in UI/UX design",
+        "Proficiency in Figma, Sketch, or Adobe XD",
+        "Strong portfolio showcasing design work",
+        "Understanding of responsive and mobile-first design"
+      ],
+      "apply_link": "https://designstudio.com/careers/ui-ux-designer"
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "DataInsights",
+      "location": "Mumbai, Maharashtra",
+      "salary": "$130,000",
+      "description": "Join our team as a Data Scientist to analyze complex data and generate valuable insights.",
+      "requirements": [
+        "Master’s or PhD in Computer Science, Statistics, or related field",
+        "Proficiency in Python, R, or SQL",
+        "Experience with machine learning and data visualization",
+        "Strong problem-solving and analytical skills"
+      ],
+      "apply_link": "https://datainsights.com/careers/data-scientist"
+    },
+    {
+      "id": 5,
+      "title": "Marketing Manager",
+      "company": "GrowthMark",
+      "location": "Pune, Maharashtra",
+      "salary": "$110,000",
+      "description": "We are seeking a Marketing Manager to develop and execute marketing strategies for our products.",
+      "requirements": [
+        "Bachelor’s or Master’s degree in Marketing or related field",
+        "5+ years of experience in marketing",
+        "Strong communication and interpersonal skills",
+        "Experience with digital marketing and analytics"
+      ],
+      "apply_link": "https://growthmark.com/jobs/marketing-manager"
+    },
+    {
+      "id": 6,
+      "title": "Sales Representative",
+      "company": "SalesPro",
+      "location": "Bengaluru, Karnataka",
+      "salary": "$100,000",
+      "description": "Join our sales team as a Sales Representative to drive revenue growth and build customer relationships.",
+      "requirements": [
+        "Bachelor’s degree in Business or related field",
+        "2+ years of experience in sales",
+        "Proven track record of meeting sales targets",
+        "Excellent negotiation and communication skills"
+      ],
+      "apply_link": "https://salespro.com/careers/sales-representative"
+    }
+
+  ]
+  
